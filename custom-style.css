@@ -1,0 +1,12 @@
+.brind {
+	font-size: 28px;
+	padding-top: 23px !important;
+}
+
+@media (max-width: 767px) {
+	.brind {
+		font-size : 18px !important;
+		padding-top: 20px;
+	}
+}
+
